@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/bryteone.lwc-l6b0zpxc",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Q1j9uGShZbsx3ORCy61A --open"
+  }
+}
